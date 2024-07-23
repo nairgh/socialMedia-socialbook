@@ -2,4 +2,4 @@
 
 vist the demo site
 
-<a href="https://socialmedia-socialbook.netlify.app/> social media socialbok </a>
+<a href="https://socialmedia-socialbook.netlify.app> social media socialbok </a>
